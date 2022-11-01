@@ -1,0 +1,21 @@
+{
+    "name": "@common/leaderboard-lib",
+    "version": "1.0.10",
+    "description": "Leaderboard",
+    "main": "src/leaderboard.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:plantvsundead/PVU-lib-leaderboard.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ioredis": "^4.28.0",
+        "lodash": "^4.17.21"
+    },
+    "publishConfig": {
+        "registry": "https://nexus.plantvsundead.pro/repository/npm-private/"
+    }
+}
